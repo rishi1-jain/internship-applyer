@@ -1,0 +1,16 @@
+{
+  "first_name": "Alex",
+  "last_name": "Example",
+  "email": "alex@example.com",
+  "phone": "",
+  "location": "",
+  "linkedin": "",
+  "github": "",
+  "website": "",
+  "school": "Example University",
+  "graduation": "",
+  "locations": "",
+  "roles": "software, data, machine learning, artificial intelligence, ai, engineer, developer, research, security, cloud, technical, technology, systems, analytics, quantitative",
+  "answers": [],
+  "resume": "Alex Example\nalex@example.com\nEducation\nExample University | B.S. in Computer Science\nSkills\nPython, SQL, React\nExperience\nResearch Intern | Example Lab\n\u2022 Analyzed 42 samples using Python and achieved 92% accuracy in a synthetic test.\n\u2022 Built a React dashboard for a class project.\n"
+}
